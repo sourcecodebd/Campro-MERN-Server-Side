@@ -1,4 +1,4 @@
-# Campro-MERN-Server-Side
+# Campro MERN Server Side
 ## Server-Link
 https://desolate-woodland-29933.herokuapp.com
 ## Site-Link
@@ -8,7 +8,7 @@ https://campro-org.web.app/
 [Nafi Mahmud][author]
 
 [author]: https://sourcecodebd.github.io/nafi.com/
-Hi There! This is a simple Camera Selling and Delivery related app that I made using React JS, JWT Token, Firebase, NodeJs as server side, Mongodb as database, Context API, Custom Hook, Material UI, React Bootstrap, CSS3. Here are the functionality given below.
+Hi There! This is a simple Camera Selling and Delivery related app that I made using React JS, JWT Token, Firebase, NodeJs as server side, Mongodb as database, Context API, Custom Hook, Material UI, React Bootstrap, CSS3. Here is the functionality given below.
 
 # About App
 ## • In this site we serve our Camera selling and delivery service system.
